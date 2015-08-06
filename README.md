@@ -1,5 +1,6 @@
-# exp-datamining
-My walkthrough in data mining and python
+# python-datamining-experiments
+
+My walkthrough in data mining using python
 
 This repo contains my Experiments in:
 - Recommendation algorithims
